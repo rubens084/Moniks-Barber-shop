@@ -37125,7 +37125,7 @@ html:not(.lt-ie10) .not-animated {
 	position: absolute;
 	top: 0;
 	left: 0;
-	right: 0;
+	right: 17px;
 	display: -ms-flexbox;
 	display: -webkit-flex;
 	display: flex;
