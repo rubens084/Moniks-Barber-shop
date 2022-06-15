@@ -27652,7 +27652,7 @@ blockquote .small:before {
 	}
 	.box-service-title,
 	.box-service-price {
-		font-size: 24px;
+		font-size: 22px;
 	}
 	* + .box-service {
 		margin-top: 75px;
@@ -27675,7 +27675,7 @@ blockquote .small:before {
 	}
 	.box-service-title,
 	.box-service-price {
-		font-size: 36px;
+		font-size: 25px;
 	}
 	* + .box-service-control {
 		margin-top: 65px;
