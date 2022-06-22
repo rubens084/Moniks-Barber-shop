@@ -28201,6 +28201,12 @@ blockquote .small:before {
 }
 
 @media (min-width: 768px) {
+	.mapabox {
+		border:2px; border-style: solid;
+	}
+}
+
+@media (min-width: 768px) {
 	.box-contacts {
 		padding: 55px 80px;
 	}
