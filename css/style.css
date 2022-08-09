@@ -37294,7 +37294,7 @@ html:not(.lt-ie10) .not-animated {
 }
 
 .rd-navbar-sidebar-linked #perspective .page-header-perspective.page-header-perspective-transparent:not(.stuck-page-header) .perspective-menu-toggle span, .rd-navbar-sidebar-linked #perspective .page-header-perspective.page-header-perspective-transparent:not(.stuck-page-header) .perspective-menu-toggle span:before, .rd-navbar-sidebar-linked #perspective .page-header-perspective.page-header-perspective-transparent:not(.stuck-page-header) .perspective-menu-toggle span:after {
-	background: #fff;
+	background: #000;
 }
 
 .rd-navbar-sidebar-linked #perspective .page-header-perspective.page-header-perspective-transparent:not(.stuck-page-header) .perspective-menu-text {
